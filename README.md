@@ -129,7 +129,8 @@ These interactive controls allow users to explore and analyze the data dynamical
 
 ## Dashboard Preview
 
-![dashboard_preview](https://github.com/user-attachments/assets/824605bb-9fbc-4501-9731-283e2d71487b)
+![dashboard_preview](https://github.com/user-attachments/assets/1010fd99-4a3d-41f9-bda1-e9cdcb4e37f1)
+
 
 > Dynamic Excel dashboard with timeline and slicers, designed to explore casualty trends and identify high-risk factors in road accidents.
 
