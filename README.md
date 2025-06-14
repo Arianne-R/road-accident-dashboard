@@ -9,7 +9,7 @@
 
 ## Overview
 
-The **Road Accident Dashboard** is an Excel-based analytical tool offering detailed insights into road accident casualties for **2021 and 2022**. Raw data was carefully cleaned and prepared in Excel to ensure accuracy before being transformed into meaningful insights through interactive pivot tables and charts. This dashboard enables a wide range of stakeholders—including government transport agencies, emergency services, law enforcement, transport operators, traffic management authorities, and the public—to quickly assess key performance indicators related to accident severity, vehicle involvement, temporal trends, and environmental conditions. It supports data-driven decision-making to enhance road safety, improve emergency response planning, and guide policy development.
+The **Road Accident Dashboard** is an Excel-based analytical tool offering detailed insights into road accident casualties for **2021 and 2022**. Raw data was carefully cleaned and prepared in Excel to ensure accuracy before being transformed into meaningful insights through interactive pivot tables and charts. This dashboard enables a wide range of stakeholders including government transport agencies, emergency services, law enforcement, transport operators, traffic management authorities, and the public to quickly assess key performance indicators related to accident severity, vehicle involvement, temporal trends, and environmental conditions. It supports data-driven decision-making to enhance road safety, improve emergency response planning, and guide policy development.
 
 ---
 
